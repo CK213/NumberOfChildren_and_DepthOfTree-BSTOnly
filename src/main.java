@@ -16,7 +16,5 @@ public class main{
 
         Tree_Test_Tree.inorder(root);
         System.out.println("");
-
-        root = Tree_Test_Tree.delete(root, 1);
     }
 }
